@@ -1,0 +1,17 @@
+
+      .head_img{
+      width:100px;
+      height:100px;
+      margin: 0 auto;
+      display:block;
+      border-radius:50%;
+      
+      }
+     .head_form{
+      text-align:center;
+      font-size:18px;
+      }
+      .paragraph{
+      text-align:center;
+      font-size:13px;
+      }
